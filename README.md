@@ -45,11 +45,11 @@
   
 ![allstateslinear](https://github.com/shadeetabasi/data-analysis-project-1/blob/main/final/All_states_alcohol_consumption_by_year.png)
 
-  * Looking at a blox pot, we see the average alcohol consumption per capita for 2020 is slightly higher than in previous years, with higher outliers.\
+   * Looking at a blox pot, we see the average alcohol consumption per capita for 2020 is slightly higher than in previous years, with higher outliers.
   
 ![boxplot](https://github.com/shadeetabasi/data-analysis-project-1/blob/main/final/Images/yoy_box_plot.png)
 
-* A linear regression analysis also shows a positive correlation between cumulative number of new COVID-19 cases and per capita alcohol consumption
+   * A linear regression analysis also shows a positive correlation between cumulative number of new COVID-19 cases and per capita alcohol consumption
 
 ![covidlinearregression](https://github.com/shadeetabasi/data-analysis-project-1/blob/main/final/Images/per_capiita_vs_new_vases.png)
 
@@ -59,16 +59,21 @@
   * Democratic states have traditionally consumed more alcohol than Republican states.
   * It does not immediately appear that COVID-19 has had a direct effect on alcohol consumption between Democratic and Republican-run states
   
-![politics1](https://github.com/shadeetabasi/data-analysis-project-1/blob/main/final/Images/per_capiita_vs_new_vases.png)
+![politics1](https://github.com/shadeetabasi/data-analysis-project-1/blob/main/final/Exccess%20COVID%20Cases%2C%20Republicans%20versus%20Democrats.png)
   
   * However, when measuring lockdown stringency, there does appear to be a slight positive correlation.
-  
+![politics2](https://github.com/shadeetabasi/data-analysis-project-1/blob/main/final/Images/per_capita_vs_stringency.png)
 
 * **Cannabis Consumption & COVID Relationship**
+[MANNY INSERT BULLETS & IMAGES HERE - FOLLOW ABOVE FORMAT)
 
+* **GAMING CONSOLE SALES & COVID Relationship**
+[RIZKY INSERT BULLETS & IMAGES HERE - FOLLOW ABOVE FORMAT)
 
-
-# Learnings & Limitations
+* **Learnings & Limitations**
+  * The legal Cannabis industry is not as robust as the alcohol or video game console industries which limited the accessibility to more diverse data such as demographics data.
+  * Because of how recent the data we needed to collect was,  we were limited to data for only 13 states, missing major players such as New York, California, etc.
+  * The data was different across the board so for the COVID data we had only through August 2020 but for the Cannabis data we had through November 2020 and in some instances December 2020 making observations of one relation to another lost for those months.
 
 
 
