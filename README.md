@@ -74,6 +74,9 @@
   * The legal Cannabis industry is not as robust as the alcohol or video game console industries which limited the accessibility to more diverse data such as demographics data.
   * Because of how recent the data we needed to collect was,  we were limited to data for only 13 states, missing major players such as New York, California, etc.
   * The data was different across the board so for the COVID data we had only through August 2020 but for the Cannabis data we had through November 2020 and in some instances December 2020 making observations of one relation to another lost for those months.
+  
+  # PLEASE FIND OUR PRESENTATION IN THE LINK BELOW:
+  https://docs.google.com/presentation/d/1AmetNay4OrZXgM9kplj_kPtWHX-mjCC-y5cwNFaPOik/edit?usp=sharing
 
 
 
