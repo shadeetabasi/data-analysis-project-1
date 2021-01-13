@@ -77,7 +77,11 @@
 
 
 * **GAMING CONSOLE SALES & COVID Relationship**
-[RIZKY INSERT BULLETS & IMAGES HERE - FOLLOW ABOVE FORMAT)
+ * Question: How has Covid impacted video game console sales throughout 2020?
+ * For the Switch, there’s a considerable increase in sales
+ * For the PS4 and Xbox 1, sales have stayed at about the same rate, until November 2020
+ * Conclusion: There has been a minor impact on console sales overall due to covid, but monthly sales trends generally  stayed the same.  
+
 
 * **Learnings & Limitations**
   * The legal Cannabis industry is not as robust as the alcohol or video game console industries which limited the accessibility to more diverse data such as demographics data.
