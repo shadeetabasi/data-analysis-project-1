@@ -65,7 +65,16 @@
 ![politics2](https://github.com/shadeetabasi/data-analysis-project-1/blob/main/final/Images/per_capita_vs_stringency.png)
 
 * **Cannabis Consumption & COVID Relationship**
-[MANNY INSERT BULLETS & IMAGES HERE - FOLLOW ABOVE FORMAT)
+  * In both the US and Canada the cannabis industry overall has been affected in a positive way.
+  * The outlier to this is April 2020 which showed a dip in revenues for most states & provinces due to lockdowns instituted by governments.
+  * Since the US cannabis market is more robust, we concluded that Americans consumed more cannabis during COVID.
+  * Looking at 10 products in Canada and 9 products in the US over a 2 year period the results were the same - inhalable cannabis products (Flower (weed), Pre-Rolls and Vapor Pens) were the most popular products.
+  * While there was a positive correlation for US Cannabis product sales during COVID, there were still many outliers.
+  * Though COVID has had a positive impact on the Cannabis product sales, the industry is on its own trajectory as indicated by the outliers. 
+![cannabis1](https://github.com/shadeetabasi/data-analysis-project-1/blob/main/final/Images/US & Canada 2019 - 2020 Cannabis Market Categories.png) 
+![cannabis1](https://github.com/shadeetabasi/data-analysis-project-1/blob/main/final/Images/US & Canada 2019 - 2020 Cannabis Market Size.png) 
+![cannabis1](https://github.com/shadeetabasi/data-analysis-project-1/blob/main/final/Images/US 2020 Cannabis Market Categories Linear Regression.png)
+
 
 * **GAMING CONSOLE SALES & COVID Relationship**
 [RIZKY INSERT BULLETS & IMAGES HERE - FOLLOW ABOVE FORMAT)
